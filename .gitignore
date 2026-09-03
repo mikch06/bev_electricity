@@ -1,4 +1,6 @@
 raw/
+*.csv
+*.xlsx
 #
 sites/site*/admin/
 textpattern/
